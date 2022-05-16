@@ -32,4 +32,13 @@
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain-wordmark.svg" alt="phpstorm" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">My Credo:</h3>
+
+```mermaid
+  graph TD;
+   Learn-->Hard-Work;
+   Hard-Work-->Success;
+   Success-->Learn;
+```
+
 
