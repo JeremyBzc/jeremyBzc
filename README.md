@@ -2,7 +2,7 @@
 
 <h3 align="center">Vuejs Frontend developer :)</h3> 
 
-- 🔭 I’m currently working on Student Project (Last) on [OpenClassrooms](https://openclassrooms.com/fr/)
+- 🔭 I’m currently working on Landing Page/Personal page
 - 🌱 I’m currently learning PHP, NuxtJs
 - 📫 How to reach me: bruzacj@yahoo.fr
 - ⚡ Fun fact: I’m an amateur blacksmith ⚒️🔥
