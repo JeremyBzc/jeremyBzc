@@ -3,7 +3,7 @@
 <h3 align="center">Vuejs Frontend developer :)</h3> 
 
 - 🔭 I’m currently working on Landing Page/Personal page
-- 🌱 I’m currently learning PHP, NuxtJs
+- 🌱 I’m currently learning TypeScript, PHP,
 - 📫 How to reach me: bruzacj@yahoo.fr
 - ⚡ Fun fact: I’m an amateur blacksmith ⚒️🔥
 
