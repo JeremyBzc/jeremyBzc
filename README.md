@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋 I'm Jeremy Bruzac !</h1>
 
-<h3 align="center">Vuejs Frontend developer :)</h3> 
+<h3 align="center">Developer Fullstack :)</h3> 
 
 - 🔭 I’m currently working on Landing Page/Personal page
 - 🌱 I’m currently learning TypeScript, PHP,
